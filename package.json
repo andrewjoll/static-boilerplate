@@ -1,0 +1,58 @@
+{
+  "name": "static-boilerplate",
+  "version": "1.0.0",
+  "description": "A gulp-based framework for SPA development",
+  "main": "gulpfile.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.2",
+    "concurrent-transform": "^1.0.0",
+    "cssnano": "^3.10.0",
+    "express": "^4.14.1",
+    "fs": "0.0.1-security",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-livereload": "^3.8.1",
+    "gulp-newer": "^1.3.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-postcss": "^6.3.0",
+    "gulp-prompt": "^0.4.1",
+    "gulp-rev": "^8.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sass-lint": "^1.3.4",
+    "gulp-sequence": "^0.4.6",
+    "gulp-svgmin": "^1.2.3",
+    "gulp-twig": "^0.7.0",
+    "gulp-uglify": "^2.0.1",
+    "gulp-util": "^3.0.8",
+    "jshint": "^2.9.4",
+    "jshint-stylish": "^2.2.1",
+    "path": "^0.12.7",
+    "pump": "^1.0.2",
+    "rev-del": "^1.0.5",
+    "yargs": "^6.6.0",
+    "del": "^3.0.0",
+    "opn": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewjoll/static-boilerplate.git"
+  },
+  "keywords": [
+    "Gulp",
+    "SASS",
+    "Twig",
+    "SPA"
+  ],
+  "author": "Alloy",
+  "bugs": {
+    "url": "https://github.com/andrewjoll/static-boilerplate/issues"
+  },
+  "homepage": "https://github.com/andrewjoll/static-boilerplate#readme"
+}
